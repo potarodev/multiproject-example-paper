@@ -1,4 +1,0 @@
-name: MultiProjectExampleA
-version: "1.0-SNAPSHOT"
-main: dev.potaro.multiprojectexample.a.MultiProjectExampleA
-api-version: "1.21"
