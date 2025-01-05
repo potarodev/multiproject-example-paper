@@ -1,0 +1,6 @@
+name: MultiProjectExampleB
+version: "1.0-SNAPSHOT"
+main: dev.potaro.multiprojectexample.b.MultiProjectExampleB
+api-version: "1.21"
+
+depend: ["MultiProjectExampleLibs"]
